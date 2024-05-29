@@ -1,7 +1,7 @@
 Welcome to my Project!
 
 
-Author:Thomas 
+Author:Thomas Claudius
 
 Twitter: @thomasclaudiush
 
